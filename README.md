@@ -1,2 +1,2 @@
 # Sun-or-shade-code
-Code for manuscript "Sun or shade? Trajectory-level adaptation of pedestrian behavior to urban heat in Tokyo".
+Code for manuscript "Shade-seeking behavior reveals pedestrian adaptation to urban heat".
